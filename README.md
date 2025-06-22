@@ -7,7 +7,7 @@
 - 🔥 Desenvolvedor FullStack (Front e Back)
 - 🤓 Programo em Python, C++, C#, Java e tô mandando ver no Frontend também
 - 💀 Ex-streamer da Twitch (pra quem lembra)
-- 🐍 Código com comentários sinceros, mas que funcionam
+- 🐍 Código erros grotescos, mas que funcionam (nao sei como)
 - 👨‍💻 Café e commits são meu combustível
 
 ---
