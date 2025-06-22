@@ -54,15 +54,8 @@
 
 ### 📫 Onde me achar:
 
-- 📷 Instagram dev: [@onenamed](https://instagram.com/onenamed)  
+- 📷 Instagram dev: [@F4IRcode](https://instagram.com/F4IRcode)  
 - 📷 Instagram pessoal: [@kelvin.kalvice](https://instagram.com/kelvin.kalvice)  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=FullStack;Código+Com+Estilo;Commitando+Com+Raiva" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🤡 PS:  
